@@ -14,3 +14,6 @@ Project description
 ## Claude 3.5 prompting and responses
 
 ### Initial prompt:
+
+
+Python 3.11.3
